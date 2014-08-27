@@ -10,4 +10,4 @@ This is a one page website. There's a stylesheet and a couple of asset folders.
 
 ## Hosting
 
-CNAME www record points to `allsortz.github.io` Apex (top level `allsortzgroup.co.uk` is permanently `301` forwarded to `www.allsortzgroup.co.uk` See this <a href="http://stackoverflow.com/questions/23097397/github-pages-setting-up-custom-domain">Stack Overflow</a> post for details.
+CNAME www record points to `allsortz.github.io` Apex (top level `allsortzgroup.co.uk`) is permanently `301` forwarded to `www.allsortzgroup.co.uk` See this <a href="http://stackoverflow.com/questions/23097397/github-pages-setting-up-custom-domain">Stack Overflow post on setting up GH pages to take advantage of GH's CDN</a> for details.
